@@ -1,4 +1,4 @@
-# Título Grande
+# Árboles de Decisión
 
 ## ¿Qué es un árbol de decisión?
 
